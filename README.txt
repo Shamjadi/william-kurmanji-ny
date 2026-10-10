@@ -1,7 +1,7 @@
-WILLIAM DIONS KURDISKA APP - BILDER HELG 2-10
+WILLIAM DIONS KURDISKA BOK - KOMPLETT BILDPAKET
 
-Denna uppdatering behaller tidigare app och samma sparade framsteg.
-Innehaller illustrationer i SVG-format for alla 10 helger.
-De nya bilderna ar ENKLA SYMBOLISKA TECKNINGAR, inte unika avancerade barnboksbilder for varje ord. For abstrakta ord anvands tematiska bilder och svensk text.
+Ladda upp index.html och hela mappen images (med undermappen illustrations) till GitHub-projektets huvudmapp. Behall den befintliga mappstrukturen. Alla 169 unika ord har motsvarande SVG-fil.
 
-Ladda upp hela innehållet i mappen till befintligt GitHub-repo william-kurmanji-ny och ersatt index.html. Bevara images/illustrations.
+OBS: Ladda upp sjalva mappen images, inte de enskilda SVG-filerna i huvudmappen. Kontrollera att GitHub visar images/illustrations/mal.svg.
+
+Appen lagrar framsteg lokalt i webblasaren. Denna uppdatering bevarar samma lagringsnyckel.
